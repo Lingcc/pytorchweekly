@@ -1,6 +1,6 @@
 # Pytorch Weekly - #1, May 2nd 2023
 
-Welcome to the 1st issue of Pytorch Weekly, a weekly newsletter covering development in Pytorch AI development platform.
+Welcome to the 1st issue of Pytorch Weekly, a weekly newsletter covering development in Pytorch AI development platform. You can subscribe the newsletter with [pytorchweekly@freelists.org](https://www.freelists.org/list/pytorchweekly) or [Lingcc/pytorchweekly (github.com)](https://github.com/Lingcc/pytorchweekly) .
 
 ## News and articles from around the web and events
 
